@@ -1,4 +1,4 @@
-const api='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'
+const api='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'
 
 // variables to use 
 const search=document.getElementById('go')
